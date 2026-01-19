@@ -1,0 +1,13 @@
+streamlit==1.38.0
+pandas
+numpy
+scikit-learn
+plotly
+prophet
+pillow
+streamlit-option-menu
+extra-streamlit-components
+requests
+markdown
+weasyprint
+
